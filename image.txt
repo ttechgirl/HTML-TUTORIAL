@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> HTML IMAGES</h1>
+<p><img src="img_4975"></p>
+
+</body>
+</html>
